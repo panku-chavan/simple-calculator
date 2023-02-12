@@ -1,4 +1,4 @@
-Simple Caclulator react-app
+##Simple Caclulator react-app
 
 This is a Simple React App
 
@@ -10,7 +10,7 @@ All Mathematical operation works properly.
 
 Deployed on gh-pages
 
-Link-
+Link- https://panku-chavan.github.io/simple-calculator/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
