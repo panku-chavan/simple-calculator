@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+Simple Caclulator react-app
+
+This is a Simple React App
+
+This is a plain CSS project 
+
+All Mathematical operation works properly.
+
+## Deplayment status
+
+Deployed on gh-pages
+
+Link-
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
