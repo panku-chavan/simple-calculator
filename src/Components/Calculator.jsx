@@ -45,7 +45,7 @@ export const Calclulator = () => {
                     <button name="3" onClick={handleClick}>3</button>
                     <button className="highlight" name="+" onClick={handleClick}>+</button>
                     <button name="0" onClick={handleClick}>0</button>
-                    <button className="highlight" name="." onClick={handleClick}>.</button>
+                    <button name="." onClick={handleClick}>.</button>
                     <button className="highlight" onClick={calculate} id="result">=</button>
                 </div>
             </div>
